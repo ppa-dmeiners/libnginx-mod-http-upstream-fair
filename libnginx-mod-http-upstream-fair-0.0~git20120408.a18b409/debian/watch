@@ -1,0 +1,6 @@
+Version: 5
+Source: https://github.com/gnosek/nginx-upstream-fair
+Matching-Pattern: HEAD
+Mode: git
+Compression: xz
+Pgp-Mode: none

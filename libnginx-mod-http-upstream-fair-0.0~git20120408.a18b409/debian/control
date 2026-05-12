@@ -1,0 +1,23 @@
+Source: libnginx-mod-http-upstream-fair
+Section: httpd
+Priority: optional
+Maintainer: Debian Nginx Maintainers <pkg-nginx-maintainers@alioth-lists.debian.net>
+Uploaders: Jan Mojžíš <janmojzis@debian.org>,
+Build-Depends: debhelper-compat (= 13),
+               dh-sequence-nginx,
+Standards-Version: 4.7.2
+Homepage: https://github.com/gnosek/nginx-upstream-fair
+Vcs-Git: https://salsa.debian.org/nginx-team/libnginx-mod-http-upstream-fair.git
+Vcs-Browser: https://salsa.debian.org/nginx-team/libnginx-mod-http-upstream-fair
+Rules-Requires-Root: no
+
+Package: libnginx-mod-http-upstream-fair
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends},
+         ${shlibs:Depends},
+Recommends: nginx,
+Description: Nginx Upstream Fair Proxy Load Balancer
+ The Nginx fair proxy balancer enhances the standard round-robin load balancer
+ provided with Nginx so that it tracks busy backend servers and adjusts
+ balancing accordingly.
