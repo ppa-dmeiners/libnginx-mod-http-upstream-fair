@@ -1,3 +1,9 @@
+libnginx-mod-http-upstream-fair (1:0.0~git20120408.a18b409-7+ubuntu24.04.1+deb.meiners.net+1.30.0) noble; urgency=medium
+
+  * build against nginx-abi-1.30.0
+
+ -- David Meiners <david@meiners.net>  Tue, 12 May 2026 03:57:42 +0000
+
 libnginx-mod-http-upstream-fair (1:0.0~git20120408.a18b409-7+ubuntu24.04.1+deb.meiners.net+1.28.3) noble; urgency=medium
 
   * Backport to noble from resolute
