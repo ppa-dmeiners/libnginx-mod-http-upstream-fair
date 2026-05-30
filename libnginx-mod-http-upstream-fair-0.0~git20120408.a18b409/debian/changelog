@@ -1,4 +1,4 @@
-libnginx-mod-http-upstream-fair (1:0.0~git20120408.a18b409-7+ubuntu24.04.1+deb.meiners.net+1.30.2) noble; urgency=medium
+libnginx-mod-http-upstream-fair (1:0.0~git20120408.a18b409-7+ubuntu26.04.1+deb.meiners.net+1.30.2) resolute; urgency=medium
 
   * New upstream version 1.30.2
 
