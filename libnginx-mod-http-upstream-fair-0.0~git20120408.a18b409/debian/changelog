@@ -1,3 +1,9 @@
+libnginx-mod-http-upstream-fair (1:0.0~git20120408.a18b409-7+ubuntu26.04.1+deb.meiners.net+1.30.4) resolute; urgency=medium
+
+  * New upstream version 1.30.4
+
+ -- David Meiners <david@meiners.net>  Sat, 18 Jul 2026 04:57:43 +0000
+
 libnginx-mod-http-upstream-fair (1:0.0~git20120408.a18b409-7+ubuntu26.04.1+deb.meiners.net+1.30.3) resolute; urgency=medium
 
   * New upstream version 1.30.3
